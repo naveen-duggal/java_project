@@ -48,8 +48,9 @@ public class Bank {
 
 	public void exit()
 	{
-		System.exit(0);
 		System.out.println("Thanks for using our Banking Services....");
+		System.exit(0);
+		
 	}
 	
 public void showMenu() {
